@@ -1,6 +1,6 @@
 # Photos-iOS
 
-Was curious how Netflix and Spotify apps displayed content that be scrolled horizontally and vertically with custom width and layout, and *CollectionViews* is the answer!
+Was curious how Netflix and Spotify apps displayed content that can be scrolled horizontally and vertically with custom width and layout, and *CollectionViews* is the answer!
 
 Ended up making a view similar to iOS' albums, take a look!
 
